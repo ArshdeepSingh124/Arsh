@@ -40,3 +40,5 @@ In Mongodb you can see it
 After that you can logout and came to main page
 
 All this is being stored in database.
+Also it is responsive
+![image](https://github.com/ArshdeepSingh124/Arsh/assets/80159287/4d176f10-6244-43f0-ae3d-89f851bc51f9)
