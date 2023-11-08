@@ -6,7 +6,7 @@ Fullstack Link:
 https://harmless-beryl-iguanodon.glitch.me/
 
 
-Frontend Link:https://654bca52f3d3841d7a04dd97--bespoke-sherbet-ffd414.netlify.app/
+Frontend Link:(https://bespoke-sherbet-ffd414.netlify.app/)
 # # Deployment:
 
 * First install MongoDB from its official website.
