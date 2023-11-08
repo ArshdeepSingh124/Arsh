@@ -4,7 +4,7 @@ const ejs = require("ejs");
 const mongoose = require("mongoose");
 const bcrypt = require('bcryptjs');
 const salt = bcrypt.genSaltSync(10);
-
+const dburl="mongodb+srv://arshdeep33455134:password1234@cluster0.z1vu3h0.mongodb.net/?retryWrites=true&w=majority";
 const {
   check,
   validationResult
@@ -22,7 +22,7 @@ app.use(bodyParser.urlencoded({
   extended: true
 }));
 
-mongoose.connect("mongodb://localhost:27017/userDB", {
+mongoose.connect(dburl, {
   useNewUrlParser: true,
   useUnifiedTopology: true
 });
