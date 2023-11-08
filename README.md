@@ -34,7 +34,9 @@ after that it will saved in database
 ![image](https://github.com/ArshdeepSingh124/Arsh/assets/80159287/0de8dd9a-de57-4024-9a10-21a7ca33664a)
 
 In Mongodb you can see it
-![image](https://github.com/ArshdeepSingh124/Arsh/assets/80159287/7e99499d-4ee9-49b9-923b-8d725e1332b8)
+![image](https://github.com/ArshdeepSingh124/Arsh/assets/80159287/19f3019a-6950-4485-9755-79ea463e3dea)
+![image](https://github.com/ArshdeepSingh124/Arsh/assets/80159287/54aa26dc-310f-4c8a-bb67-08fe81e422b2)
+
 
 
 After that you can logout and came to main page
