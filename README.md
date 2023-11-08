@@ -1,5 +1,8 @@
 A WisePath educational site made with html,css,js,nodejs and mongodb.
 
+Link:
+https://arshdeepsingh124.github.io/Arsh/
+
 # # Deployment:
 
 * First install MongoDB from its official website.
