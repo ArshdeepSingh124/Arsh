@@ -28,7 +28,9 @@ Then it would take to main site:
 After that you can submit contact page:
 ![image](https://github.com/ArshdeepSingh124/Arsh/assets/80159287/94350c9e-8e68-42b6-9e07-a2dd9f0261d4)
 after that it will saved in database
+![image](https://github.com/ArshdeepSingh124/Arsh/assets/80159287/0de8dd9a-de57-4024-9a10-21a7ca33664a)
 
-After that you can logout and came to login page
+
+After that you can logout and came to main page
 
 All this is being stored in database.
