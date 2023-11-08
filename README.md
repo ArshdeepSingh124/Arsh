@@ -1,10 +1,4 @@
-# LoginAndSignUp
-A Signup and login page authenticated using Nodejs and mongoDB
-
-The website is built using HTML,CSS,Javascript,Nodejs,Express.
-It uses the Mongodb for storing the user details provided. Mongoose is an Object Data Modleing library for MongoDB and Nodejs. It manages relationship between data and provides schema validation.
-Here, users can signup/login manually and will be directed to home page.
-There user details are authenticated and password encryption is done using hashing.
+A WisePath educational site made with html,css,js,nodejs and mongodb.
 
 # # Deployment:
 
