@@ -1,7 +1,11 @@
 A WisePath educational site made with html,css,js,nodejs and mongodb.
 and internsctl.txt is for linux work
-Link:
+
+
+Fullstack Link:
 https://harmless-beryl-iguanodon.glitch.me/
+
+
 Frontend Link:https://654bca52f3d3841d7a04dd97--bespoke-sherbet-ffd414.netlify.app/
 # # Deployment:
 
