@@ -6,7 +6,7 @@
   "scripts": {
     "dev":"nodemon app.js"
   },
-  "author": "Tejashree R",
+  "author": "Arshdeep Singh",
   "license": "ISC",
   "dependencies": {
     "bcryptjs": "^2.4.3",
